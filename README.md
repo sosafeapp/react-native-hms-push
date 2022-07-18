@@ -1,3 +1,5 @@
+# All credits to the original [HMS react-native plugin](https://github.com/HMS-Core/hms-react-native-plugin). This fork will exists until the getting of the initial deep link gets fixed. Look at [this issue](https://github.com/HMS-Core/hms-react-native-plugin/issues/184) posted in the original repo.
+
 <p align="center">
   <h1 align="center">React-Native HMS Push</h1>
 </p>
